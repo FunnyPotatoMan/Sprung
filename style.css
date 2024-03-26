@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Spring;
+    src: url('Spring.ttf') format('truetype');
+}
+#bckgrd {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 100vh;
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+.center-text {
+    left: 50%;
+    top: 50%;
+    color: green;
+    background-image: url("fire.jpg");
+    background-position: center;
+    background-size: 50vw;
+    border-style: double;
+    border-radius: 100vw;
+    position: absolute;
+    padding: 3vh;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    font-family: ;
+}
+.center-bottom {
+    left: 50%;
+    top: 75%;
+}
