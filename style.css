@@ -32,3 +32,6 @@
     left: 50%;
     top: 75%;
 }
+body {
+    margin: 0vw, 0vh;
+}
